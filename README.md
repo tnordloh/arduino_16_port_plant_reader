@@ -14,8 +14,8 @@ ports.  We use two of these; one to apply power, the other to read how much
 power gets through.  
 
 Additionally, each of the moisture sensors has an LED built into it, so that we
-know which of the 16 plants require watering.  To address the 16 lights, we 
-are using two
+can light up  which of the 16 plants require watering.  To address the 16 lights, 
+we are using two
 [SN74HC595 8-Bit shift registers](https://www.sparkfun.com/products/13699), 
 which consumes three more ports on the Arduino.
 
