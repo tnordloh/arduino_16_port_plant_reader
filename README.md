@@ -5,7 +5,7 @@ to be watered.  Placing two wires into the plant soil, then sending a charge
 through the soil will produce a number between 0 and 1023.  With some
 experimentation, we picked "550" as dry, and "650" as REALLY dry.  
 
-he Arduino we're using has only 6 analog ports, so we are extending the 
+The Arduino we're using has only 6 analog ports, so we are extending the 
 capabilities, by using two 
 [SparkFun Analog/Digital MUX Breakout - CD74HC4067](https://www.sparkfun.com/products/9056).
 
