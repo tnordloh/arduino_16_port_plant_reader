@@ -1,6 +1,6 @@
 # Plant moisture sensor, with up to 16 ports #
 
-This moisture sensor uses arduino's analog sensor, to detect when a plqnt needs
+This moisture sensor uses arduino's analog sensor, to detect when a plant needs
 to be watered.  Placing two wires into the plant soil, then sending a charge
 through the soil will produce a number between 0 and 1023.  With some
 experimentation, we picked "550" as dry, and "650" as REALLY dry.  
