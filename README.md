@@ -25,4 +25,5 @@ just for fun, but it could be used to set each individual plant to its own
 level of dryness, to make up for differences between each sensor, or differences
 in soil, that might make the moisture sensors inaccurate.
 
-
+Here's what the wiring diagram looks like:
+![fritzing file](./16-port_bb.png)
