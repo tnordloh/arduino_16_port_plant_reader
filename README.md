@@ -21,7 +21,7 @@ which consumes three more ports on the Arduino.
 
 Since we had a couple of ports left over, we wired up a small lcd screen, so that
 we can visually verify what each plant is actually registering.  This was 
-just for fun, but it could be used to set each individual plant to its' own
+just for fun, but it could be used to set each individual plant to its own
 level of dryness, to make up for differences between each sensor, or differences
 in soil, that might make the moisture sensors inaccurate.
 
